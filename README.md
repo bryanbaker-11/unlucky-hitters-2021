@@ -9,3 +9,7 @@ My second project for the Lede Program 2022.
 # Unlucky Hitter's Python Notebook Summary
 - First, I used a pybaseball package to import data on every pitch thrown in the 2021 season. I removed spring training and post season data to focus on the regular season numbers. 
 - Then, I filtered the dataframe to only include hard-hit balls (95 mph+ exit velocity). I used str.contains to locate hard-hit balls that resulted in outs and used value_counts() to sort by batter ID.
+
+'''bash
+!pip install plotly
+'''
