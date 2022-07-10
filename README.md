@@ -2,4 +2,4 @@
 My second project for the Lede Program 2022.
 
 # Goals
-## Determine who the unluckiest hitters were based on expected statistics vs. actual statistics
+- Determine who the unluckiest hitters were based on expected statistics vs. actual statistics
